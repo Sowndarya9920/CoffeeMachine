@@ -72,7 +72,7 @@ public class CoffeeMachine {
     }
 
     public static void buy(CoffeeMachine coffeeMachine){
-        System.out.println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu");
+        System.out.println("Choose your caffeine crescendo! : 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu");
         String inputValue = scanner.nextLine();
 
         switch(inputValue){
