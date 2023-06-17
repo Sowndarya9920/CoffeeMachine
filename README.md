@@ -11,15 +11,15 @@
 #### :coffee: Cappuccino
 - :heavy_dollar_sign: price - $6/cup, :potable_water: water needed – 200 ml/cup , :milk_glass: milk needed – 100 ml/cup , :coffee: beans needed - 12/cup. 
 
-:coffee: There should be a “buy” option which enables the user to buy a coffee of their choice. The coffee would be dispensed only if the machine contains enough ingredients to make that coffee otherwise it will show an error message. 
+:hotel: There should be a “buy” option which enables the user to buy a coffee of their choice. The coffee would be dispensed only if the machine contains enough ingredients to make that coffee otherwise it will show an error message. 
 
-:coffee: After coffee is dispensed, money in our box will be updated as well as remaining ingredients. There should be a “fill” 
+:hotel: After coffee is dispensed, money in our box will be updated as well as remaining ingredients. There should be a “fill” 
 option which lets us add the ingredients as the user specifies. 
 
-:coffee: There should be a “take” option which enables the maintainer to take the money in the money box. There should be a “show” 
+:hotel: There should be a “take” option which enables the maintainer to take the money in the money box. There should be a “show” 
 option which enables the user to check the ingredients left in the coffee machine. 
 
-:coffee: There should be an “exit” option which stops the simulation.
+:hotel: There should be an “exit” option which stops the simulation.
 
 
 
