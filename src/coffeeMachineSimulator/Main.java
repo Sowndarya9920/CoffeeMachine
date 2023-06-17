@@ -5,6 +5,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Step right up, coffee artists! Unleash your creativity and craft your perfect cup of joy.");
+
+
         CoffeeMachine coffeeMachine = new CoffeeMachine(400, 540, 120, 9, 550);
 
         boolean exit = false;
