@@ -6,3 +6,4 @@ public class Latte extends Coffee{
         super(350, 75, 20, 7, "Latte");
     }
 }
+

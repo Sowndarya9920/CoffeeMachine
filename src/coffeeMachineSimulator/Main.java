@@ -9,19 +9,19 @@ public class Main {
 
         boolean exit = false;
         String order = "";
-        while(!exit){
+        while(!exit) {
             System.out.println("Write action (Coffee Dispenser, Brew, Retrieval , Supply Status, Power Down)");
             order = scanner.nextLine();
 
-            if(order.equals("Coffee Dispenser")){
+            if (order.equals("Coffee Dispenser")) {
                 CoffeeMachine.buy(coffeeMachine);
-            }else if(order.equals("Brew")){
+            } else if (order.equals("Brew")) {
                 CoffeeMachine.fill(coffeeMachine);
-            }else if(order.equals("Retrieval")){
+            } else if (order.equals("Retrieval")) {
                 CoffeeMachine.take(coffeeMachine);
-            }else if(order.equals("Supply Status")){
+            } else if (order.equals("Supply Status")) {
                 CoffeeMachine.showSupply(coffeeMachine);
-            }else if(order.equals("Power Down")){
+            } else if (order.equals("Power Down")) {
                 exit = true;
             }
         }
