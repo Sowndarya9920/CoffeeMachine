@@ -23,5 +23,9 @@ option which enables the user to check the ingredients left in the coffee machin
 
 :hotel: There should be an “exit” option which stops the simulation.
 
+---------------------------------------------------------------------------------------------------------------------------------------
+#### :partying_face: View
+
+
 
 
