@@ -28,6 +28,8 @@ option which enables the user to check the ingredients left in the coffee machin
 
 ![image](https://github.com/Sowndarya9920/CoffeeMachineSimulator/assets/112794922/99235720-6537-4787-ae35-36e25969bb19)
 
+![image](https://github.com/Sowndarya9920/CoffeeMachineSimulator/assets/112794922/25cf625c-407c-4681-815e-cd82435ea619)
+
 
 
 
