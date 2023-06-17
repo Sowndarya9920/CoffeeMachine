@@ -71,7 +71,6 @@ public class CoffeeMachine {
         System.out.println(coffeeMachine.getMoney() + " of Money");
     }
 
-
     public static void buy(CoffeeMachine coffeeMachine){
         System.out.println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu");
         String inputValue = scanner.nextLine();

@@ -6,3 +6,4 @@ public class Cappuccino extends Coffee{
         super(200, 100, 12, 6, "Cappuccino");
     }
 }
+
