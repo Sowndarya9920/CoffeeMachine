@@ -26,6 +26,8 @@ option which enables the user to check the ingredients left in the coffee machin
 ---------------------------------------------------------------------------------------------------------------------------------------
 #### :partying_face: View
 
+![image](https://github.com/Sowndarya9920/CoffeeMachineSimulator/assets/112794922/99235720-6537-4787-ae35-36e25969bb19)
+
 
 
 
